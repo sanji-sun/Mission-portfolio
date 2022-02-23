@@ -7,6 +7,9 @@ h1{
 .orange-color{
     color:lightsalmon;
 }
+.mission{
+    color:black;
+}
 section{
     display: flex;
 }
@@ -20,8 +23,56 @@ section{
 .link-button{
     text-decoration: none;
     background-color: tomato;
-    padding: 10px 30px;
+    padding: 8px 30px;
     border-radius: 5px;
     color: white;
     font-weight: 200;
 }
+.mission-portion{
+    padding-left: 30%;
+    padding-top: 5%;
+    width: 100%;
+}
+.one-third{
+  text-align: center;
+  width: 33.33%;
+}
+.one-third img{
+    width: 60%;
+    padding: 2%;
+}
+.box-m{
+    background-color: lightgreen;
+ 
+}
+.box-v{
+    background-color: lightsalmon;
+  
+}
+.box-g{
+    background-color: lightpink;
+ 
+}
+.document{
+    width: 50%;
+    padding-left: 10%;
+    padding-bottom: 10%;
+}
+.document img{
+    width: 70%;
+}
+.Community{
+    width: 50%;
+    padding-left: 10%;
+    padding-bottom: 10%;
+}
+.Community img{
+    width: 60%;
+}
+footer{
+    text-align: center;
+    padding: 1px;
+    background-color: black;
+    color:white
+}
+   
