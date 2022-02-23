@@ -31,11 +31,14 @@ section{
 .mission-portion{
     padding-left: 30%;
     padding-top: 5%;
-    width: 100%;
 }
 .one-third{
   text-align: center;
-  width: 33.33%;
+  height:480px;
+  padding-bottom: 10%;
+  padding-right: 15%;
+  padding-left: 15%;
+  display: flex;
 }
 .one-third img{
     width: 60%;
